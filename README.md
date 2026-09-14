@@ -6,10 +6,13 @@ This repository is a growing collection of notes, seminars, guides, notebooks, a
 
 ## Contents
 
-- Seminar materials and presentations
-- Computational notebooks
-- Modeling and simulation projects
-- Technical guides and learning resources
+- [Projects](projects/): selected computational modeling and simulation projects.
+- [Seminars](seminars/): notes, presentations, notebooks, exercises, and supplementary materials.
+- [Guides](guides/): reusable technical and methodological guides.
+
+## Organization
+
+Notebooks, source code, figures, data, and presentations are stored within the project or seminar to which they belong. This keeps each study self-contained and reproducible.
 
 ## Status
 
