@@ -9,7 +9,9 @@ Definir el vocabulario científico o técnico necesario para comprender el fenó
 
 ## Ejemplo
 
-En un proyecto de hipertermia magnética, el glosario puede incluir conceptos relacionados con el tratamiento del cáncer, la fisiología y perfusión de los tejidos, la transferencia de calor, las nanopartículas magnéticas y los modelos de biocalor.
+En un proyecto de hipertermia magnética, el glosario puede incluir conceptos relacionados con el tratamiento del cáncer, la fisiología y perfusión de los tejidos, la transferencia de calor, las nanopartículas magnéticas y los modelos de biocalor. Por ejemplo:
+
+> La **hipertermia magnética** es una modalidad terapéutica de calentamiento localizado en la que se introducen o concentran nanopartículas magnéticas en un tejido diana, habitualmente tumoral, las cuales se exponen a un campo magnético alterno. Bajo la acción del campo, las nanopartículas disipan energía en forma de calor, con el propósito de elevar la temperatura del tejido hasta un intervalo capaz de producir daño o muerte en las células tumorales (Laurent et al., 2011; Fatima et al., 2021).
 
 **Nota:** Más allá del modelo computacional, la inclusión de conceptos que permitan interpretar adecuadamente el sistema, sus procesos o su relevancia científica se justifica por la necesidad de comprender el fenómeno. Esto ayuda a reconocer los límites y las simplificaciones del modelo propuesto, aún si dichos conceptos no se emplean como variables o parámetros dentro del código.
 
