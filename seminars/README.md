@@ -11,3 +11,7 @@ Materials may include:
 - Supplementary references
 
 Seminars are organized by year and topic. Teaching materials may be written in Spanish, while titles, summaries, and repository navigation are maintained in English for broader accessibility.
+
+## Seminar index
+
+- [Seminario simulamos de todo (2026)](2026/)
