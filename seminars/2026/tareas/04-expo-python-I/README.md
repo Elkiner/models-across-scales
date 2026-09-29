@@ -20,7 +20,7 @@ La actividad estará dividida en rondas temáticas:
 
 ## Formato de cada exposición
 
-Cada participante dispondrá de aproximadamente **20 minutos de exposición**, seguidos de un breve espacio de preguntas y retroalimentación.
+Cada participante dispondrá de aproximadamente **30 minutos de exposición**, seguidos de un breve espacio de preguntas y retroalimentación.
 
 La presentación deberá responder las siguientes preguntas:
 
