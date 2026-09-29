@@ -238,6 +238,35 @@ También deberá mostrarse un caso en el que un decorador complique innecesariam
 [https://docs.python.org/3/glossary.html#term-decorator](https://docs.python.org/3/glossary.html#term-decorator)
 [https://docs.python.org/3/library/functools.html#functools.wraps](https://docs.python.org/3/library/functools.html#functools.wraps)
 
+---
+
+### Tema 6. Aleatoriedad, semillas y reproducibilidad en simulaciones
+
+**Pregunta central:** ¿Qué significa reproducir una simulación estocástica y por qué fijar una semilla no es suficiente para garantizar resultados confiables
+
+#### Contenidos mínimos
+
+- Aleatoriedad y pseudoaleatoriedad (*pseudorandomness*).
+- Generadores de números pseudoaleatorios (*pseudorandom number generators*, PRNG).
+- Semilla (*seed*) y estado interno del generador.
+- Diferencias entre `random` y `numpy.random`.
+- Estado global y generadores independientes.
+- Uso de `numpy.random.default_rng()`.
+- Repetibilidad y reproducibilidad.
+- Réplicas independientes de una simulación.
+- Alcances y limitaciones del uso de semillas.
+
+#### Demostración sugerida
+
+Implementar un experimento o una simulación estocástica sencilla y estudiar cómo cambia su comportamiento al controlar la generación de números pseudoaleatorios de diferentes maneras. Luego, comparar una implementación basada en el estado global con otra que utilice generadores explícitos. Adicionalmente, examinar las consecuencias sobre la repetición de resultados, la independencia entre ejecuciones y la organización del código. Asímismo, también deberá mostrarse un caso en el que fijar o administrar inadecuadamente las semillas produzca resultados engañosos o dificulte la reproducibilidad.
+
+**Fuentes iniciales:**  
+[https://docs.python.org/3/library/random.html](https://docs.python.org/3/library/random.html)  
+[https://numpy.org/doc/stable/reference/random/generator.html](https://numpy.org/doc/stable/reference/random/generator.html)  
+[https://scientific-python.org/specs/spec-0007/](https://scientific-python.org/specs/spec-0007/)
+
+---
+
 ## Retroalimentación
 
 La retroalimentación se organizará en tres niveles:
